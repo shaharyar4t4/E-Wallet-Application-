@@ -91,5 +91,3 @@ For any queries, feel free to reach out to:
 - **GitHub:** [Shaharyar4t4](https://github.com/shaharyar4t4)  
 
 ---
-
-Feel free to customize the content further as per your specific needs or project updates! Let me know if you want help adding anything. 😊
