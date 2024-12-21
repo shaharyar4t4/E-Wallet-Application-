@@ -18,14 +18,14 @@ This project is a Flutter-based E-wallet app designed to help users manage their
 ```
 E-Wallet-Application/
 ├── lib/
-│   ├── screens/         # Contains all UI screens  
-│   ├── models/          # Data models for transactions and users  
-│   ├── services/        # Firebase services and logic  
-│   ├── tranfer/           # Utility files and helpers  
-│   └── main.dart        # Application entry point  
-├── assets/              # App assets (icons, images, etc.)  
-├── pubspec.yaml         # Project dependencies  
-└── README.md            # Project documentation (this file)  
+│   ├── screens/        
+│   ├── models/           
+│   ├── services/         
+│   ├── tranfer/             
+│   └── main.dart          
+├── assets/                
+├── pubspec.yaml           
+└── README.md              
 ```
 
 ## 🛠️ Technologies Used  
