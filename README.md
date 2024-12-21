@@ -1,4 +1,4 @@
-Here’s a proper **README.md** file content for your **E-Wallet Application** GitHub repository:  
+![RMS Screenshot](https://github.com/shaharyar4t4/E-Wallet-Application-/blob/master/e-wallet.png)
 
 ---
 
